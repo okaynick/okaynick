@@ -1,2 +1,1 @@
-# portfolio
-A showcase of my cybersecurity work
+# Hey, I'm Nick.
