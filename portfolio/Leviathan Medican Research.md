@@ -56,7 +56,7 @@ ubuntu@leviathan:~$ sudo useradd -G doctors,nix malek
 
 #### Creating Files
 
-Leviathan has hundreds of patients and these records need to be handled in such a way as to allow doctors to do their jobs, but also comply with HIPPA privacy standards. As such, only the doctor assigned to the patient is allowed access to read or write to the record. Additionally, to maintain privacy, patient names are not included in the filename, only their patient id number. If a patient is ever transfered to a different doctor, the new doctor gains ownership of the record.
+Leviathan has hundreds of patients and these records need to be handled in such a way as to allow doctors to do their jobs, but also comply with HIPAA privacy standards. As such, only the doctor assigned to the patient is allowed access to read or write to the record. Additionally, to maintain privacy, patient names are not included in the filename, only their patient id number. If a patient is ever transfered to a different doctor, the new doctor gains ownership of the record.
 
 ```bash
 ubuntu@leviathan:~$ cd ..
