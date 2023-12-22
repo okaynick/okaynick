@@ -6,8 +6,10 @@
 - [Creation of a Cloud Network (Honeynet) & SOC in Azure (with live traffic)](https://github.com/okaynick/cloud-soc)
 
 ## 🎓 Certifications & Education
-- Google Cybersecurity Professional Certificate
+- <a href="https://www.credly.com/badges/9c08b70c-682e-44e7-9a82-1b222322bedf/public_url" target="_blank">Google Cybersecurity Professional Certificate</a>
 - Josh Madakor's Cybersecurity Analyst Course (LeveldCareers)
+
+![Google Cybersecurity Certificate](https://github.com/okaynick/okaynick/assets/10458811/6921b7b3-a2ee-4cd5-a8d4-640c0be3d549)
 
 ## 🤓 Hobbies & Interests
 When I'm not protecting networks from threat actors, I like to...
