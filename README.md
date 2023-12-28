@@ -4,6 +4,7 @@
 
 ## 👨‍💻 Cybersecurity Portfolio
 - [Creation of a Cloud Network (Honeynet) & SOC in Azure (with live traffic)](https://github.com/okaynick/cloud-soc)
+- [File encryption script in Python that uses second file as the key](https://github.com/okaynick/crypthulhu)
 
 ## 🎓 Certifications & Education
 - <a href="https://www.credly.com/badges/9c08b70c-682e-44e7-9a82-1b222322bedf/public_url" target="_blank">Google Cybersecurity Professional Certificate</a>
